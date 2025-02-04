@@ -19,3 +19,13 @@ My qelectrotech elements library
 ## ULN2003AN
 
 ![](.images/uln2003an.png)
+
+# Examples of use
+
+## networking
+
+![](.images/networking.png)
+
+## box connector
+
+![](.images/box-connector.png)
