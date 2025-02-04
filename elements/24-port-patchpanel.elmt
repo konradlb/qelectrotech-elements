@@ -8,7 +8,7 @@
     <elementInformations/>
     <informations>
         Original author: https://github.com/ReichardtIT/qelectrotech-elements/blob/master/netzwerk/24portpatchpanel.elmt
-        Corrected author: https://github.com/konradlb/qelectrotech-elements
+        Modifications by: https://github.com/konradlb/qelectrotech-elements
     </informations>
     <description>
         <rect y="-10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" antialias="false" height="10" x="-75"/>
