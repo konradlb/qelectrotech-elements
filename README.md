@@ -14,7 +14,7 @@ My qelectrotech elements library
 
 ## L7805
 
-![](.images/stabilizer-L7805.png)\
+![](.images/stabilizer-L7805.png)
 
 ## ULN2003AN
 
