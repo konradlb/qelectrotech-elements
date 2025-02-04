@@ -4,9 +4,15 @@
         <name lang="en">Miktorik L009 router</name>
         <name lang="pl">Miktorik L009 router</name>
     </names>
-    <elementInformations/>
-    <informations></informations>
-    <description>
+    <elementInformations>
+        <elementInformation show="1" name="description">Router</elementInformation>
+        <elementInformation show="1" name="designation">L009</elementInformation>
+        <elementInformation show="1" name="manufacturer">Mikrotik</elementInformation>
+
+    </elementInformations>
+    <informations>
+        Author: https://github.com/konradlb/qelectrotech-elements
+    </informations>    <description>
         <rect y="-30" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:red;color:black" width="350" antialias="false" height="50" x="-220"/>
         <text y="-12" text="5" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" x="16" color="#000000"/>
         <rect y="-9" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:black" width="28" antialias="false" height="20" x="95"/>
