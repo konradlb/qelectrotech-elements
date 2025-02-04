@@ -1,0 +1,28 @@
+<definition height="20" hotspot_x="4" width="10" hotspot_y="9" version="0.80" type="element" link_type="simple">
+    <uuid uuid="{6eef5987-5e0c-4e69-b93a-65223592ebfd}"/>
+    <names>
+        <name lang="cs">box connector</name>
+        <name lang="de">box connector</name>
+        <name lang="fr">box connector</name>
+        <name lang="hu">box connector</name>
+        <name lang="pl">konektor puszkowy</name>
+        <name lang="es">box connector</name>
+        <name lang="el">box connector</name>
+        <name lang="nl">box connector</name>
+        <name lang="ar">box connector</name>
+        <name lang="it">box connector</name>
+        <name lang="en">box connector</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text text_from="ElementInfo" text_width="-1" Valignment="AlignTop" z="1" x="-5.5" frame="false" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="9.5" uuid="{b7e72b5b-a3cf-467a-acee-1ee7a1697e02}" rotation="0" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle antialias="false" x="-2" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-2"/>
+        <terminal orientation="s" x="0" y="4" uuid="{0ae009ff-8def-4daa-84fb-ccce697c9179}" name=""/>
+        <terminal orientation="n" x="0" y="-4" uuid="{2c30f81d-4283-4bb1-b8a0-d4e462dc59ac}" name=""/>
+    </description>
+</definition>

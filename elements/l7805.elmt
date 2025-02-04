@@ -1,0 +1,19 @@
+<definition height="50" hotspot_x="34" width="70" hotspot_y="21" version="0.80" type="element" link_type="simple">
+    <uuid uuid="{b7de5dc5-1594-4335-a585-7ffc5591b4d4}"/>
+    <names>
+        <name lang="pl">stabilizator L7805</name>
+        <name lang="en">stabilizer L7805</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text x="-13" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="-5" rotation="0" text="L7805"/>
+        <text x="-23" color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0" y="3" rotation="0" text="Vin"/>
+        <text x="-5" color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0" y="13" rotation="0" text="GND"/>
+        <text x="11.7376" color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0" y="2.60284" rotation="0" text="Vout"/>
+        <rect antialias="false" ry="0" height="30" width="50" x="-25" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-15"/>
+        <terminal orientation="e" x="30" y="0" uuid="{358de94a-58cc-42a9-903f-23da72728ec3}" name=""/>
+        <terminal orientation="s" x="0" y="20" uuid="{521c3ab2-ab2b-4710-ac45-5f61ddac63d8}" name=""/>
+        <terminal orientation="w" x="-30" y="0" uuid="{8f29f519-4212-4dd5-a1b8-d35daa9503a7}" name=""/>
+    </description>
+</definition>
