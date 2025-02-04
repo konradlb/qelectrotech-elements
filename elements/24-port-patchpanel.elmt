@@ -1,7 +1,8 @@
 <definition height="60" hotspot_x="195" hotspot_y="25" link_type="simple" width="380" type="element" version="0.90">
     <uuid uuid="{51d70d5c-809b-4d02-bc9c-119457df0525}"/>
     <names>
-        <name lang="de">24 Port Patchpanel</name>
+        <name lang="en">24 Port Patchpanel</name>
+        <name lang="pl">Panel krosowy Ethernet 24 portowy</name>
     </names>
     <elementInformations/>
     <informations></informations>
