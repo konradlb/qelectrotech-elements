@@ -5,8 +5,9 @@
         <name lang="en">box connector</name>
     </names>
     <elementInformations/>
-    <informations>Author: The QElectroTech team
-License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <informations>
+        Author: https://github.com/konradlb/qelectrotech-elements
+    </informations>
     <description>
         <dynamic_text text_from="ElementInfo" text_width="-1" Valignment="AlignTop" z="1" x="-5.5" frame="false" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="9.5" uuid="{b7e72b5b-a3cf-467a-acee-1ee7a1697e02}" rotation="0" Halignment="AlignLeft">
             <text></text>
