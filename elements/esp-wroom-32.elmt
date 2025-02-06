@@ -1,11 +1,14 @@
 <definition width="110" type="element" hotspot_y="93" hotspot_x="54" height="220" link_type="simple" version="0.80">
     <uuid uuid="{3f3df20a-d5fc-4f39-8c60-198da7e6f725}"/>
     <names>
-        <name lang="en">ESP-WROOM-32</name>
-        <name lang="pl">ESP-WROOM-32</name>
+        <name lang="en">ESP-WROOM-32 DevKit</name>
+        <name lang="pl">ESP-WROOM-32 DevKit</name>
     </names>
-    <elementInformations/>
-    <informations>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer">Espressif</elementInformation>
+        <elementInformation show="1" name="designation">ESP-WROOM-32 ESP32-DevKit</elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+    </elementInformations>    <informations>
         Based on ESP8266 nodemcu v3 from qelectrotech elements library https://qelectrotech.org/forum/viewtopic.php?pid=15569#p15569
         Modifications by: https://github.com/konradlb/qelectrotech-elements
     </informations>
