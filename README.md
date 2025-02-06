@@ -28,6 +28,12 @@ A simple element with two terminals from both sides, allowing for drawing connec
 
 ![](.images/box-connector.png)
 
+## ESP WROOM 32 DevKit
+
+Based on ESP8266 nodemcu v3 from qelectrotech elements library https://qelectrotech.org/forum/viewtopic.php?pid=15569#p15569
+
+![](.images/esp-wroom-32.png)
+
 # Examples of use
 
 ## networking
