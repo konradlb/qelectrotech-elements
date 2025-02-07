@@ -1,19 +1,22 @@
 <definition width="110" type="element" hotspot_y="20" hotspot_x="4" height="200" link_type="simple" version="0.80">
     <uuid uuid="{bf549dc8-bc23-4af1-9bf7-5da4c111d03a}"/>
     <names>
+        <name lang="en">ULN2003AN</name>
+        <name lang="pl">ULN2003AN</name>
         <name lang="nl">ULN2003AN</name>
         <name lang="ar">ULN2003AN</name>
         <name lang="de">ULN2003AN</name>
-        <name lang="en">ULN2003AN</name>
         <name lang="it">ULN2003AN</name>
         <name lang="fr">ULN2003AN</name>
-        <name lang="pl">ULN2003AN</name>
         <name lang="cs">ULN2003AN</name>
         <name lang="el">ULN2003AN</name>
     </names>
     <elementInformations/>
-    <informations>Author: The QElectroTech team
-License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    
+    <informations>
+        Author: https://github.com/konradlb/qelectrotech-elements
+    </informations>
+
     <description>
         <text color="#000000" y="-2" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" text="16" x="92"/>
         <circle diameter="2" y="59" style="line-style:normal;line-weight:normal;filling:none;color:gray" antialias="false" x="40"/>
