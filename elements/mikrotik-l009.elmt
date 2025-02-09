@@ -12,7 +12,9 @@
     </elementInformations>
     <informations>
         Author: https://github.com/konradlb/qelectrotech-elements
-    </informations>    <description>
+    </informations>    
+    
+    <description>
         <rect y="-30" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:red;color:black" width="350" antialias="false" height="50" x="-220"/>
         <text y="-12" text="5" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" x="16" color="#000000"/>
         <rect y="-9" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:white;color:black" width="28" antialias="false" height="20" x="95"/>

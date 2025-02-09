@@ -1,6 +1,8 @@
 <definition width="20" type="element" hotspot_y="5" hotspot_x="10" height="20" link_type="terminal" version="0.80">
     <uuid uuid="{967f4f69-d699-482d-bb6c-671a101767d9}"/>
     <names>
+        <name lang="pl">GND</name>
+        <name lang="en">GND</name>
         <name lang="nl">GND</name>
         <name lang="ar">هيكل معدني</name>
         <name lang="de">Masse</name>
@@ -8,29 +10,16 @@
         <name lang="it">GND</name>
         <name lang="es">GND</name>
         <name lang="fr">GND</name>
-        <name lang="ru">GND</name>
-        <name lang="pl">GND</name>
+        <name lang="ru">GND</name>    
         <name lang="cs">Kostra</name>
         <name lang="ro">GND</name>
         <name lang="el">GND</name>
         <name lang="pt">GND</name>
         <name lang="hu">GND</name>
     </names>
-    <elementInformations>
-        <elementInformation show="1" name="manufacturer"></elementInformation>
-        <elementInformation show="1" name="comment"></elementInformation>
-        <elementInformation show="1" name="plant"></elementInformation>
-        <elementInformation show="1" name="supplier"></elementInformation>
-        <elementInformation show="1" name="label"></elementInformation>
-        <elementInformation show="1" name="designation"></elementInformation>
-        <elementInformation show="1" name="unity"></elementInformation>
-        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
-        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
-        <elementInformation show="1" name="description"></elementInformation>
-        <elementInformation show="1" name="quantity"></elementInformation>
-    </elementInformations>
-    <informations>Konrad
-kondzio2003@gmail.com</informations>
+    <informations>
+        Author: https://github.com/konradlb/qelectrotech-elements
+    </informations>
     <description>
         <line length1="1.5" style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false" end1="none" x1="-5" y2="11" y1="11.0032" x2="0" length2="1.5" end2="none"/>
         <line length1="1.5" style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false" end1="none" x1="0" y2="11" y1="4" x2="0" length2="1.5" end2="none"/>
