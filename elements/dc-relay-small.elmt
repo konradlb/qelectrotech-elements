@@ -1,0 +1,57 @@
+<definition type="element" height="40" width="60" hotspot_y="19" link_type="master" hotspot_x="20" version="0.90">
+    <uuid uuid="{8550f870-6f45-4313-bd6e-f8b494fac488}"/>
+    <names>
+        <name lang="en">DC relay - small</name>
+        <name lang="pl">Przekaźnik prądu stałego - mały</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations>
+        Based on "DC Relais" from qelectrotech elements library
+        Author: https://github.com/konradlb/qelectrotech-elements
+    </informations>
+    <description>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" y="-5.525" ry="0" height="11" width="7" rx="0" x="-18" antialias="false"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" y="-5.525" ry="0" height="11" width="21" rx="0" x="-11" antialias="false"/>
+        <dynamic_text frame="false" y="-17" keep_visual_rotation="false" text_from="UserText" z="4" uuid="{b78642aa-b230-4912-906b-6cbb070a3151}" rotation="0" x="27" text_width="-1" font="Sans Serif,4,-1,5,25,0,0,0,0,0" Halignment="AlignLeft" Valignment="AlignTop">
+            <text>2</text>
+        </dynamic_text>
+        <dynamic_text frame="false" y="1" keep_visual_rotation="false" text_from="UserText" z="5" uuid="{94edcc6b-71b0-4d35-ad29-3a4e09592ebe}" rotation="0" x="20" text_width="-1" font="Sans Serif,4,-1,5,25,0,0,0,0,0" Halignment="AlignLeft" Valignment="AlignTop">
+            <text>3</text>
+        </dynamic_text>
+        <dynamic_text frame="false" y="1" keep_visual_rotation="true" text_from="UserText" z="5" uuid="{16bc4fd3-cb7c-454f-8fb7-e265fd127ad8}" rotation="0" x="-11" text_width="-1" font="Sans Serif,4,-1,5,25,0,0,0,0,0" Halignment="AlignLeft" Valignment="AlignTop">
+            <text>A2</text>
+        </dynamic_text>
+        <dynamic_text frame="false" y="-17" keep_visual_rotation="true" text_from="UserText" z="6" uuid="{66741f0e-f6f8-4851-a75b-a79edb841b5b}" rotation="0" x="-11" text_width="-1" font="Sans Serif,4,-1,5,25,0,0,0,0,0" Halignment="AlignLeft" Valignment="AlignTop">
+            <text>A1</text>
+        </dynamic_text>
+        <dynamic_text frame="false" y="-17" keep_visual_rotation="false" text_from="UserText" z="6" uuid="{6ac8e0a6-c562-42f3-bb0e-2eaf7726ed93}" rotation="0" x="12" text_width="-1" font="Sans Serif,4,-1,5,25,0,0,0,0,0" Halignment="AlignLeft" Valignment="AlignTop">
+            <text>1</text>
+        </dynamic_text>
+        <dynamic_text frame="false" y="-8" keep_visual_rotation="true" text_from="UserText" z="7" uuid="{aaf54837-fc76-49d1-a30d-17e1b75e9f8b}" rotation="0" x="32" text_width="-1" font="Sans Serif,4,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" Valignment="AlignVCenter">
+            <text>Kx</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x3="22" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="28" y2="3" y1="8" x1="28" closed="false" y3="-7" antialias="true"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x2="-16.6" y2="0.7" y1="0.7" length2="1.5" x1="-12.4" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x2="-15.21" y2="-0.7" y1="-0.7" length2="1.5" x1="-16.6" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x2="-12.4" y2="-0.7" y1="-0.7" length2="1.5" x1="-13.8" end2="none" end1="none" antialias="false"/>
+        <dynamic_text frame="false" y="-7.75" keep_visual_rotation="false" text_from="ElementInfo" z="14" uuid="{bb4158fb-c7dd-4a99-a8e9-1e640ae795f2}" rotation="0" x="77.05" text_width="-1" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line style="line-style:dashed;line-weight:normal;filling:none;color:black" length1="1.5" x2="26" y2="0" y1="0" length2="1.5" x1="11" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x2="20" y2="-6" y1="-12" length2="1.5" x1="20" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x2="23" y2="-6" y1="-6" length2="1.5" x1="20" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x2="35" y2="-6" y1="-12" length2="1.5" x1="35" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x2="0" y2="10" y1="6" length2="1.5" x1="0" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x2="0" y2="-11" y1="-6" length2="1.5" x1="0" end2="none" end1="none" antialias="false"/>
+        <terminal type="Generic" y="11" uuid="{355403fd-9c7b-4257-b0e4-63c487300cf4}" x="0" name="" orientation="s"/>
+        <terminal type="Generic" y="-11" uuid="{7154521b-bbba-44ee-8e28-85dc0e90f2b9}" x="0" name="" orientation="n"/>
+        <terminal type="Generic" y="11" uuid="{1e795779-b69f-4466-a396-63970f906aca}" x="28" name="" orientation="s"/>
+        <terminal type="Generic" y="-11" uuid="{eead44db-8074-43c7-87a7-55f12b0c4f7e}" x="20" name="" orientation="n"/>
+        <terminal type="Generic" y="-11" uuid="{503477f4-b4de-4133-b013-b731a41c79e7}" x="35" name="" orientation="n"/>
+    </description>
+</definition>
