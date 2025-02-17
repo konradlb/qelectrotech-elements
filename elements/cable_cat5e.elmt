@@ -1,0 +1,52 @@
+<definition type="element" height="40" width="150" hotspot_y="29" link_type="simple" hotspot_x="77" version="0.90">
+    <uuid uuid="{75ea0af4-25f5-4719-8c75-6f942239df70}"/>
+    <names>
+        <name lang="en">Cable Cat 5e</name>
+        <name lang="pl">Kabel sieciowy LAN kat. 5e</name>
+    </names>
+    <elementInformations/>
+    <informations>
+        Based on "Cable_cat5e" from qelectrotech elements library
+        Author: https://github.com/konradlb/qelectrotech-elements
+    </informations>
+    <description>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:blue" length1="1.5" x2="-66" y2="0" y1="-4" length2="1.5" x1="-70" end2="none" end1="none" antialias="true"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:brun" length1="1.5" x2="-6" y2="0" y1="-4" length2="1.5" x1="-10" end2="none" end1="none" antialias="true"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:orange" length1="1.5" x2="-26" y2="0" y1="-4" length2="1.5" x1="-30" end2="none" end1="none" antialias="true"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:green" length1="1.5" x2="-46" y2="0" y1="-4" length2="1.5" x1="-50" end2="none" end1="none" antialias="true"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:green" length1="1.5" x2="-36" y2="0" y1="-4" length2="1.5" x1="-40" end2="none" end1="none" antialias="true"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:brun" length1="1.5" x2="-10" y2="-4.77778" y1="-9.22222" length2="1.5" x1="-10" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:orange" length1="1.5" x2="-30" y2="-4.77778" y1="-9.22222" length2="1.5" x1="-30" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:brun" length1="1.5" x2="3.95" y2="-0.05" y1="-4.05" length2="1.5" x1="-0.05" end2="none" end1="none" antialias="true"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:blue" length1="1.5" x2="-56" y2="0" y1="-4" length2="1.5" x1="-60" end2="none" end1="none" antialias="true"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:blue" length1="1.5" x2="-70" y2="-4.77778" y1="-9.22222" length2="1.5" x1="-70" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:orange" length1="1.5" x2="-16" y2="0" y1="-4" length2="1.5" x1="-20" end2="none" end1="none" antialias="true"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:green" length1="1.5" x2="-50" y2="-4.77778" y1="-9.22222" length2="1.5" x1="-50" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:blue" length1="1.5" x2="-60" y2="-4.77778" y1="-9.22222" length2="1.5" x1="-60" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x2="20" y2="0" y1="0" length2="1.5" x1="-65.7" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:green" length1="1.5" x2="-40" y2="-4.77778" y1="-9.22222" length2="1.5" x1="-40" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x2="20" y2="4" y1="-4" length2="1.5" x1="20" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x2="62" y2="4" y1="4" length2="1.5" x1="20" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x2="58" y2="-4" y1="-4" length2="1.5" x1="20" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:orange" length1="1.5" x2="-20" y2="-4" y1="-9" length2="1.5" x1="-20" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:brun" length1="1.5" x2="0" y2="-4" y1="-10" length2="1.5" x1="0" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:dashed;line-weight:thin;filling:none;color:black" length1="1.5" x2="62" y2="4" y1="-4" length2="1.5" x1="58" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:blue" length1="1.5" x2="-60" y2="-15" y1="-10" length2="1.5" x1="-70" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:blue;color:blue" length1="1.5" x2="-70" y2="-15" y1="-10" length2="1.5" x1="-60" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:green" length1="1.5" x2="-40" y2="-15" y1="-10" length2="1.5" x1="-50" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:green" length1="1.5" x2="-50" y2="-15" y1="-10" length2="1.5" x1="-40" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:orange" length1="1.5" x2="-20" y2="-15" y1="-10" length2="1.5" x1="-30" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:orange" length1="1.5" x2="-30" y2="-15" y1="-10" length2="1.5" x1="-20" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:brun" length1="1.5" x2="0" y2="-15" y1="-10" length2="1.5" x1="-10" end2="none" end1="none" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:brun" length1="1.5" x2="-10" y2="-15" y1="-10" length2="1.5" x1="0" end2="none" end1="none" antialias="false"/>
+        <terminal type="Generic" y="-20" uuid="{36b434a2-cfb4-4b7e-8b20-b3f2b99ae5ff}" x="-20" name="" orientation="n"/>
+        <terminal type="Generic" y="-20" uuid="{1dcefa99-c1cb-49d5-8073-208af08e3aac}" x="-60" name="" orientation="n"/>
+        <terminal type="Generic" y="-20" uuid="{b53af560-5ae4-456f-b2a3-9372fc28995b}" x="-30" name="" orientation="n"/>
+        <terminal type="Generic" y="-20" uuid="{8fc23b42-687a-40f1-8264-5142343190de}" x="0" name="" orientation="n"/>
+        <terminal type="Generic" y="-20" uuid="{38233cde-a7b7-42b7-891c-d475b29ef87f}" x="-10" name="" orientation="n"/>
+        <terminal type="Generic" y="0" uuid="{62dc1aed-916c-492b-8f16-6185f728c65c}" x="65" name="" orientation="e"/>
+        <terminal type="Generic" y="-20" uuid="{95c3862b-cb7a-41fa-a82b-0a25490b5ccb}" x="-50" name="" orientation="n"/>
+        <terminal type="Generic" y="-20" uuid="{1e6ca838-990d-401a-a434-19e94cf94201}" x="-70" name="" orientation="n"/>
+        <terminal type="Generic" y="-20" uuid="{ab92252b-009d-4cc9-81e0-3242c64e75ce}" x="-40" name="" orientation="n"/>
+    </description>
+</definition>
