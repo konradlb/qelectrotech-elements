@@ -1,0 +1,34 @@
+<definition hotspot_x="22" type="element" width="30" link_type="master" hotspot_y="24" version="0.90" height="50">
+    <uuid uuid="{33e7c487-e84f-4b5c-af2d-fd57fc5a3c05}"/>
+    <names>
+        <name lang="pl">Wyłącznik nadmiarowo prądowy 1 polowy</name>
+        <name lang="en">Miniature circuit breaker (over current switch) 1-poles</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">protection</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations>
+        Author: The QElectroTech team License: see http://qelectrotech.org/wiki/doc/elements_license
+        Based on "eaton_40a.elmt" from qelectrotech elements library
+        Modifications by: https://github.com/konradlb/qelectrotech-elements
+    </informations>
+    <description>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="2" length1="1.5" end2="none" y2="-10" end1="none" y1="-14" x2="-2"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-2" length1="1.5" end2="none" y2="-10" end1="none" y1="-14" x2="2"/>
+        <polygon x3="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" x1="-5" y3="20" closed="false" y2="10" y1="-10" x2="0"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="0" length1="1.5" end2="none" y2="-12" end1="none" y1="-20" x2="0"/>
+        <polygon y5="-2" antialias="false" x8="-4" y8="-3" x7="-4" x1="-16" x3="-13" y2="-1" x6="-4" x5="-8" y3="-5" y1="0" x4="-9" closed="false" y7="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" y4="-6" y6="-3" x2="-12"/>
+        <line length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-15" length1="1.5" end2="none" y2="2" end1="none" y1="5" x2="-3"/>
+        <polygon x3="-12.2" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" x1="-16" y3="5.7" y2="3" y1="5.4" x2="-13"/>
+        <dynamic_text rotation="0" Halignment="AlignRight" z="11" frame="false" Valignment="AlignTop" y="-10.5" font="Sans Serif,9,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{aa381108-8b37-4b48-9519-772c63919211}" x="-28" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text rotation="0" Halignment="AlignRight" z="24" frame="false" Valignment="AlignBottom" y="-25" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" text_from="UserText" uuid="{1922e7a9-4773-4084-97cc-1ee12d9b1029}" x="-28.0313" text_width="-1">
+            <text>C20</text>
+        </dynamic_text>
+        <terminal name="OUT.2" type="Generic" orientation="s" y="20" uuid="{562cbd97-4eb7-4a48-8569-1900c40f6f33}" x="0"/>
+        <terminal name="IN.1" type="Generic" orientation="n" y="-20" uuid="{36408992-60ec-458f-aaf2-9fad8364dc71}" x="0"/>
+    </description>
+</definition>
